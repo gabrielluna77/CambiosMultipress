@@ -1,0 +1,10 @@
+.barra-principal {
+	display: grid;
+	grid-template-columns:  1fr 1fr 1fr 1fr 1fr 1fr;
+	
+	
+}
+.barra-del-contenido {
+    display: grid;
+    grid-template-columns: 225px 1fr;
+}
